@@ -2,5 +2,5 @@ joblib==1.2.0
 streamlit==1.27.2
 scikit-learn==1.2.0
 pandas==1.5.2
-setuptools==<latest-version>
+setuptools==3.8.1
 pip==24.3.1
